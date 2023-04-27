@@ -1,4 +1,4 @@
-# Coding-Assessment-Fall23
+# Coding-Assessment-Fall23-To-do-List
 
 ## Project Description ##
 A simple to-do list app with a few basic requirements
