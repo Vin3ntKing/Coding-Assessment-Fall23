@@ -8,7 +8,7 @@ A simple to-do list app with a few basic requirements
 
 1. Start the back-end server:
 - Open a terminal and navigate to the `server` directory.
-- Run `node index.js` or `npm start` (if you've set up a start script in `package.json`).
+- Run `node index.js` or `npm start`.
 
 2. Start the front-end development server:
 - Open a new terminal and navigate to the `client/to-do-app` directory.
